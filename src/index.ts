@@ -51,7 +51,6 @@ const gazpromArmenia: Branch = {
                         ]
                     }
                 },
-                // Другие сотрудники и их семьи в Гюмри
             ]
         },
         erevan: {
